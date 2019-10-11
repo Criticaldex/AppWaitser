@@ -8,7 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Hola Giraldio!" 
+        <Label Text="que dise loko!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
 
